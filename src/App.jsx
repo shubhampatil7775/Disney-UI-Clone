@@ -1,17 +1,14 @@
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import MenuBar from './components/MenuBar';
+import ImageSlider from './components/ImageSlider';
 
 function App() {
 	return (
 		<div className="App">
-			<header className="App-header">
-				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					Edit <code>src/App.jsx</code> and save to reload!
-				</p>
-				<span className="App-link">Hello from codedamn :)</span>
-			</header>
+			<MenuBar />
+			<ImageSlider />
 		</div>
 	)
 }
