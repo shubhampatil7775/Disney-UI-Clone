@@ -3,7 +3,10 @@
                 "start": "snowpack dev"
         },
         "dependencies": {
+                "@restart/hooks": "^0.4.5",
+                "bootstrap": "^5.0.2",
                 "react": "^18.0.0-alpha-64931821a-20210808",
+                "react-bootstrap": "^2.1.2",
                 "react-dom": "^18.0.0-alpha-64931821a-20210808"
         },
         "devDependencies": {
