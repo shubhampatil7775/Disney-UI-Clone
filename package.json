@@ -7,7 +7,8 @@
                 "react": "^18.0.0-alpha-64931821a-20210808",
                 "react-bootstrap": "^2.1.2",
                 "react-dom": "^18.0.0-alpha-64931821a-20210808",
-                "styled-components": "^5.3.3"
+                "styled-components": "^5.3.3",
+                "url-loader": "^4.1.1"
         },
         "devDependencies": {
                 "@babel/preset-react": "^7.14.5",
