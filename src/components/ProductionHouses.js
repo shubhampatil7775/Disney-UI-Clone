@@ -16,7 +16,7 @@ const ProductionHouses = () => {
                     </div>
                     <div className="mt-3 mt-md-0 col">
                         <Wrap>
-                            <Card style={{ background: "transparent" }}>
+                            <Card  style={{ background: "transparent" }}>
                                 <Card.Img variant="top" src="/assets/images/scale10.jpg" />
                             </Card>
                         </Wrap>
@@ -37,7 +37,7 @@ const ProductionHouses = () => {
                     </div>
                     <div className="mt-3 mt-md-0 col">
                         <Wrap>
-                            <Card style={{ background: "transparent" }}>
+                            <Card  style={{ background: "transparent" }}>
                                 <Card.Img variant="top" src="/assets/images/scale8.jpg" />
                             </Card>
                         </Wrap>
