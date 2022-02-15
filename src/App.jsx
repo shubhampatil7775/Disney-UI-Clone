@@ -13,12 +13,12 @@ function App() {
 	return (
 		<div className="App">
 			<MenuBar />
-			<ImageSlider/>
-			<ProductionHouses/>
-			<Recommendation/>
-			<NewToDisney/>
-			<Originals/>
-			<Trending/>
+			<ImageSlider />
+			<ProductionHouses />
+			<Recommendation />
+			<NewToDisney />
+			<Originals />
+			<Trending />
 		</div>
 	)
 }
